@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0c8e007-5249-4323-9ee3-3b971de5c529" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/VideoAnalyzerBase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/Analyzers/WebAnalyzers/WebAnalyzerBase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/DataCreators/VideoRecorders/VideoRecorderBase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/DataCreators/VideoRecorders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/DataCreators/WebScrappers/WebScrapperBase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/DataCreators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/Repositories/RepositoryBase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/Uploaders/UploaderBase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/VideoCreators/VideoCreatorBase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/VideoCreators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BH_Program/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/AnalyzerUtils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/VideoAnalyzerBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/VideoAnalyzerBase.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
