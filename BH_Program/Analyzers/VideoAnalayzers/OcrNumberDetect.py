@@ -110,4 +110,5 @@ if __name__ == "__main__":
     #FILE_TO_TEST = cv2.imread("")
     #my_ocr.imageToString(FILE_TO_TEST)
     #FILE_TO_TEST = cv2.imread("")
+
 # end if
