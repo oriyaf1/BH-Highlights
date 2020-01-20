@@ -36,7 +36,7 @@ class NumberOCR:
 
     def __init__(self, type='type0'):
         self.type = type
-        self.npaClassifications = np.loadtxt("OcrFile/" + type + "classifications.txt",
+        self.npaClassifications = np.loadtxt("OcrFile/{0}classifications.txt".format(type),
                                              np.float32)  # read in training classifications
         self.npaFlattenedImages = np.loadtxt("OcrFile/" + type + "flattened_images.txt",
                                              np.float32)  # read in training images
