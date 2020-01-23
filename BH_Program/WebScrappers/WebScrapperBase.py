@@ -138,3 +138,4 @@ if __name__ == "__main__":
         print(score.player_name, score.team, score.pts, score.pts_number, score.record_score, score.assist_player, score.assist_number)
 
     my_web_scraper.close_driver()
+
