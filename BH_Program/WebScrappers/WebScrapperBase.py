@@ -35,7 +35,7 @@ class WebScrapperBase:
 
     def get_today_games(self):
 
-        if self.is_open == False:
+        if not self.is_open:
             self.driver = webdriver.Chrome("../chromedriver.exe")
             self.is_open = True
 
@@ -67,7 +67,7 @@ class WebScrapperBase:
 
     def get_playbyplay(self, game):
 
-        if self.is_open == False:
+        if not self.is_open:
             self.driver = webdriver.Chrome("../chromedriver.exe")
             self.is_open = True
 
