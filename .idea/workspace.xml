@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0c8e007-5249-4323-9ee3-3b971de5c529" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/AnalyzerUtils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/VideoAnalyzerBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/VideoAnalyzerBase.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1579035783364</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added AnalyzerUtils">
+      <created>1579552779152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579552779153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added AnalyzerUtils" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added AnalyzerUtils" />
   </component>
 </project>
