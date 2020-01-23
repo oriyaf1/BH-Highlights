@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0c8e007-5249-4323-9ee3-3b971de5c529" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BH_Program/Runners/NbaRunner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/VideoAnalyzerBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/BH_Program/Analyzers/VideoAnalayzers/VideoAnalyzerBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BH_Program/DataCreators/VideoRecorders/VideoRecorderBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/BH_Program/DataCreators/VideoRecorders/VideoRecorderBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BH_Program/Repositories/RepositoryBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/BH_Program/Repositories/RepositoryBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BH_Program/VideoCreators/VideoCreatorBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/BH_Program/VideoCreators/VideoCreatorBase.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WP0B7yu088TZLMAtupNZ8MFHUy" />
@@ -71,7 +81,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
